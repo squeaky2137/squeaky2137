@@ -25,9 +25,9 @@ I work on many different projects for people. These projects include JS applicat
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squeaky2137)](https://github.com/squeaky2137/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squeaky2137)](https://github.com/squeaky2137/squeaky2137)
 
-[![Squeaky2137's GitHub stats](https://github-readme-stats.vercel.app/api?username=squeaky2137&count_private=true&show_icons=true&theme=transparent)](https://github.com/squeaky2137/github-readme-stats)
+[![Squeaky2137's GitHub stats](https://github-readme-stats.vercel.app/api?username=squeaky2137&count_private=true&show_icons=true&theme=transparent)](https://github.com/squeaky2137/squeaky2137)
 
 
 <a href="https://discord.gg/QBaqEZD3t3"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
