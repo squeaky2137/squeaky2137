@@ -8,8 +8,7 @@
 
 ## Tools Used
 
-<a href="https://www.jetbrains.com" ><img src="images/intellij.svg"width="50"/></a>
-
+<a href="https://www.jetbrains.com" ><img src="images/intellij.svg" width="50"/></a>
 <a href="https://code.visualstudio.com" ><img src="images/vscode.svg" width="50"/></a>
 
 ---
