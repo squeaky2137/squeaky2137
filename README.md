@@ -8,9 +8,8 @@
 
 ## Tools Used
 
-- <img src="images/intellij.svg" width="20"/>
-- ![](images/intellij.svg)
-- ![](images/vscode.svg)
+<img src="images/intellij.svg" width="50"/>
+<img src="images/vscode.svg" width="50"/>
 
 ---
 
