@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+---
+
+[![Squeaky2137's GitHub stats](https://github-readme-stats.vercel.app/api?username=squeaky2137)](https://github.com/squeaky2137/github-readme-stats)
+
+
 <!--
 **squeaky2137/squeaky2137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
