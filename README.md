@@ -1,4 +1,4 @@
-### Hey! I'm [squeaky2137][website] 👋
+### Hey! I'm [squeaky2137](website) 👋
 
 ## I'm a freelance developer
 
@@ -8,8 +8,8 @@
 
 ## Tools Used
 
-- ![][images/intellij.svg]
-- ![][images/vscode.svg]
+- ![](images/intellij.svg)
+- ![](images/vscode.svg)
 
 ---
 
