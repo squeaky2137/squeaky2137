@@ -9,9 +9,9 @@ I work on many different projects for people. These projects include JS applicat
 ## Skills and Experience
 
 - Html, Css, Js <a href="https://squeaky2137.me" ><img src="images/html.svg" width="25"/></a><a href="https://squeaky2137.me" ><img src="images/css.svg" width="25"/></a><a href="https://squeaky2137.me" ><img src="images/javascript.svg" width="25"/></a>
-- React Native <a href="https://reactnative.dev" ><img src="images/intellij.svg" width="25"/></a>
+- React Native <a href="https://reactnative.dev" ><img src="images/react.svg" width="25"/></a>
 - nodeJS <a href="https://nodejs.org/en/" ><img src="images/nodejs.svg" width="25"/></a>
-- php <a href="https://www.php.net" ><img src="images/php.svg" width="25"/></a>
+- php <a href="https://www.php.net" ><img src="images/php.png" width="25"/></a>
 - java <a href="https://www.java.com/en/" ><img src="images/java.svg" width="25"/></a>
 - python <a href="https://www.python.org" ><img src="images/python.svg" width="25"/></a>
 - and more
