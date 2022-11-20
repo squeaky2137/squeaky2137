@@ -24,7 +24,7 @@ I work on many different projects for people. These projects include JS applicat
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squeaky2137)](https://github.com/squeaky2137/squeaky2137)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squeaky2137&count_private=true&show_icons=true&theme=transparent)](https://github.com/squeaky2137/squeaky2137)
 
 [![Squeaky2137's GitHub stats](https://github-readme-stats.vercel.app/api?username=squeaky2137&count_private=true&show_icons=true&theme=transparent)](https://github.com/squeaky2137/squeaky2137)
 
