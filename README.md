@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hey! I'm [squeaky2137][website] 👋
+
+## I'm a freelance developer
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squeaky2137)](https://github.com/squeaky2137/github-readme-stats)
+
+---
+
+## Tools Used
+
+# - [IntelliJ][”https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg"]
+# - [VScode][”https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg"]
 
 ---
 
