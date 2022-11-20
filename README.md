@@ -8,8 +8,8 @@
 
 ## Tools Used
 
-# - [<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg" \>][website]  
-# - [VScode][https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg]
+# - ![IntelliJ][https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg]
+# - ![VScode][https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg]
 
 ---
 
