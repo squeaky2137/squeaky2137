@@ -8,7 +8,7 @@
 
 ## Tools Used
 
-# - <a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg" alt=”icon | IntelliJ” width=”21px”/></a>
+# - [<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg" \>][website]  
 # - [VScode][https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg]
 
 ---
