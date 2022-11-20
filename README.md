@@ -8,8 +8,8 @@
 
 ## Tools Used
 
-# - ![][images/intellij.svg]
-# - ![][images/vscode.svg]
+- ![][images/intellij.svg]
+- ![][images/vscode.svg]
 
 ---
 
