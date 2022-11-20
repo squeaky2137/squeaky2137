@@ -2,7 +2,17 @@
 
 ## I'm a freelance developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squeaky2137)](https://github.com/squeaky2137/github-readme-stats)
+I work on many different projects for people. These projects include JS applications, Mobile Apps, Java projects, php projects, and more!
+
+---
+
+## Skills and Experience
+
+- Html, Css, Js
+- React Native
+- php
+- java
+- and more
 
 ---
 
@@ -13,6 +23,8 @@
 <a href="https://code.visualstudio.com" ><img src="images/vscode.svg" width="50"/></a>
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squeaky2137)](https://github.com/squeaky2137/github-readme-stats)
 
 [![Squeaky2137's GitHub stats](https://github-readme-stats.vercel.app/api?username=squeaky2137&count_private=true&show_icons=true&theme=transparent)](https://github.com/squeaky2137/github-readme-stats)
 
