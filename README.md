@@ -1,42 +1,106 @@
-### Hey! I'm [squeaky2137](https://squeaky2137.me) 👋
+<h1 align="center">squeaky2137</h1>
+<h3 align="center">Systems Developer • Automation • Real-Time Applications</h3>
 
-## I'm a freelance developer
+<p align="center">
+Building high-performance tools, backend systems, and real-time integrations.
+</p>
 
-I work on many different projects for people. These projects include JS applications, Mobile Apps, Java projects, PHP projects, and more!
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,cpp,linux,git" />
+</p>
 
----
-
-## Skills and Experience
-
-- HTML, CSS, JS <a href="https://squeaky2137.me" ><img src="images/html.svg" width="25"/></a><a href="https://squeaky2137.me" ><img src="images/css.svg" width="25"/></a><a href="https://squeaky2137.me" ><img src="images/javascript.svg" width="25"/></a>
-- React Native <a href="https://reactnative.dev" ><img src="images/react.svg" width="25"/></a>
-- Node.js <a href="https://nodejs.org/en/" ><img src="images/nodejs.svg" width="25"/></a>
-- PHP <a href="https://www.php.net" ><img src="images/php.png" width="25"/></a>
-- Java <a href="https://www.java.com/en/" ><img src="images/java.svg" width="25"/></a>
-- Python <a href="https://www.python.org" ><img src="images/python.svg" width="25"/></a>
-- and more
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=squeaky2137&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## Tools Used
+## ⚡ About
 
-<a href="https://www.jetbrains.com" ><img src="images/intellij.svg" width="50"/></a><a href="https://code.visualstudio.com" ><img src="images/vscode.svg" width="50"/></a>
+- 🔧 Freelance developer building **custom systems and automation tools**
+- 🌐 Focus on **backend development, APIs, and real-time communication**
+- ⚙️ Experience with **game integrations, dashboards, and scripting systems**
+- 🧠 Interested in **performance, scalability, and system design**
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squeaky2137&count_private=true&show_icons=true&theme=transparent)](https://github.com/squeaky2137/squeaky2137)
+## 🚀 What I Build
 
-[![Squeaky2137's GitHub stats](https://github-readme-stats.vercel.app/api?username=squeaky2137&count_private=true&show_icons=true&theme=transparent)](https://github.com/squeaky2137/squeaky2137)
+- ⚙️ **Automation Systems**
+  - Scripts and tools that eliminate repetitive workflows
+  - API-integrated logic and event-driven behavior
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
-<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
-<a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
-<a href="https://reactnative.dev"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-<a href="https://www.selenium.dev"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" /></a>
+- 🌍 **Backend Services**
+  - REST APIs and server-side systems
+  - Scalable and efficient architectures
 
-<a href="https://www.jetbrains.com"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a>
-<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
+- 📡 **Real-Time Applications**
+  - WebSocket-based communication
+  - Live dashboards and syncing systems
 
-<a href="https://discord.gg/QBaqEZD3t3"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+- 🎮 **Game Integrations**
+  - Custom tools and enhancements
+  - External systems interacting with game environments
 
+---
+
+## 🧩 Featured Work
+
+### 🔹 Real-Time Control System
+- Live communication using WebSockets  
+- Instant sync between client and backend  
+- Designed for low latency  
+
+### 🔹 Automation Engine
+- Event-driven execution system  
+- Handles complex workflows efficiently  
+- Built for speed and reliability  
+
+### 🔹 Network Monitoring Tool
+- Tracks and logs network activity  
+- Real-time visualization  
+- Focused on performance  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- JavaScript / TypeScript  
+- Python  
+- Java  
+- C++  
+
+**Backend**
+- Node.js  
+- Express  
+- REST APIs  
+- WebSockets  
+
+**Other**
+- React Native  
+- PHP  
+- Linux  
+- Git  
+
+---
+
+## 📈 Focus
+
+- Real-time systems  
+- Backend architecture  
+- Automation  
+- Performance optimization  
+
+---
+
+## 📬 Contact
+
+- Discord: `squeaky2137`
+- GitHub: https://github.com/squeaky2137
+
+---
+
+<p align="center">
+⚡ Building systems that are fast, scalable, and reliable.
+</p>
